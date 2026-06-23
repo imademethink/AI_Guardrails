@@ -1,6 +1,6 @@
 # AI Guardrails
 
-Sample implementation for important guardrail-ai modules
+# Sample implementation for important guardrail-ai modules
 
 # Learn how AI Guardrails help build secure, compliant, and trustworthy AI applications by preventing harmful outputs, protecting sensitive data, validating inputs, and improving production-ready AI reliability.
 
